@@ -26,6 +26,7 @@
 
 [Consideration of mid-size](https://web.archive.org/web/20231123073420/https://anibin.blogspot.com/2014/01/blog-post_3155.html) by [RURIN](https://web.archive.org/web/20231123073420/https://www.blogger.com/profile/14268973630329501600)
 
+### Implementations / Software
 [resdet](https://github.com/0x09/resdet)
 
 [getnative](https://github.com/Infiziert90/getnative)
@@ -53,6 +54,5 @@ https://blog.kageru.moe/legacy/resolutions.html
 
 **./og/kbz12.pdf**:
 https://web.archive.org/web/20241203084912/https://ddl.kageru.moe/kbz12.pdf
-
 
 
