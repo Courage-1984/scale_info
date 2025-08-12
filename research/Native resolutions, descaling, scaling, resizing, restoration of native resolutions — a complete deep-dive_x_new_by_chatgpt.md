@@ -1,30 +1,4 @@
-Please research the following, and analyse and think deep:
-
-Native Resolutions and descaling and Scaling and Resizing and Restoration of Native Resolutions
-
-Also investigate:
-
-I want to add that the following should also be investigated:
-
-https://blog.kageru.moe/legacy/resolutions.html
-
-https://guide.encode.moe/encoding/descaling.html
-
-https://web.archive.org/web/20241203084912/https://ddl.kageru.moe/kbz12.pdf
-
-https://silentaperture.gitlab.io/mdbook-guide/filtering/descaling.html
-
-https://web.archive.org/web/20231123073420/https://anibin.blogspot.com/2014/01/blog-post_3155.html
-
-ALSO: research DPID
-
-FINALLY:
-Create and al encompassing, comprehensive document and without letting anything out that contains info about all the above
-
-
-# The Result
-
-Native resolutions, descaling, scaling, resizing, restoration of native resolutions — a complete deep-dive
+# Native resolutions, descaling, scaling, resizing, restoration of native resolutions — a complete deep-dive
 
 Nice brief. I went through the classic fansubbing/encoding canon (Kageru, encode.moe, AniBin, SilentAperture), the practical tools people use (getnative, descale, fvsfunc, Debilinear/Debicubic, MaskDetail), the academic / algorithmic side (DPID, perceptual / L0 / spectral downscaling work, invertible rescaling, modern SR like Real-ESRGAN) and the underlying sampling/filter theory (Nyquist, Lanczos, Mitchell–Netravali). Below is a single, all-in one document with explanations, diagnostics, workflows, pitfalls, scripts, references and recommendations. I cite the key sources next to the claims they support.
 

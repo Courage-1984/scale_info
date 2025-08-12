@@ -35,7 +35,7 @@
 
 [GetFnative](https://github.com/YomikoR/GetFnative)
 
-## Assets' Sources:
+## ./_og/ Assets' Sources:
 
 **./og/Descaling (8_2_2025 6：07：36 AM).html**:
 https://silentaperture.gitlab.io/mdbook-guide/filtering/descaling.html
@@ -54,5 +54,69 @@ https://blog.kageru.moe/legacy/resolutions.html
 
 **./og/kbz12.pdf**:
 https://web.archive.org/web/20241203084912/https://ddl.kageru.moe/kbz12.pdf
+
+
+## Repo Folders / Docs Descriptions:
+
+### **`./current_1-4/`**:
+
+Prompt:
+```txt
+Please do deep research and analysis of all attached files and all these links:
+
+https://blog.kageru.moe/legacy/resolutions.html
+https://guide.encode.moe/encoding/descaling.html
+https://web.archive.org/web/20241203084912/https://ddl.kageru.moe/kbz12.pdf
+https://silentaperture.gitlab.io/mdbook-guide/filtering/descaling.html
+https://web.archive.org/web/20231123073420/https://anibin.blogspot.com/2014/01/blog-post_3155.html
+https://github.com/0x09/resdet
+https://github.com/Infiziert90/getnative
+https://github.com/Jaded-Encoding-Thaumaturgy/getfscaler
+https://github.com/YomikoR/GetFnative
+```
+
+*attached files were everyting in `./_og/`*
+
+> Used Gemini, ChatGPT, Grok & Deepseek.
+
+### **`./current_1-4_consolidated/`**:
+
+Prompt:
+```txt
+Please consolodate all 4 attached files.
+
+don't ommit anything. arange it locically. remove only exact matches between files. Please be thorough, comprehensive and think deep.
+
+please ask any clarifying questions before giving your best answer.
+```
+
+*attached files were everyting in `./_current_1-4/`*
+
+> Used Cursor ide agent
+
+### **`./research/`**:
+
+Prompt:
+```txt
+Please research the following, and analyse and think deep:
+
+Native Resolutions and descaling and Scaling and Resizing and Restoration of Native Resolutions
+
+Also investigate:
+
+I want to add that the following should also be investigated:
+https://blog.kageru.moe/legacy/resolutions.html
+https://guide.encode.moe/encoding/descaling.html
+https://web.archive.org/web/20241203084912/https://ddl.kageru.moe/kbz12.pdf
+https://silentaperture.gitlab.io/mdbook-guide/filtering/descaling.html
+https://web.archive.org/web/20231123073420/https://anibin.blogspot.com/2014/01/blog-post_3155.html
+
+ALSO: research DPID
+
+FINALLY:
+Create and al encompassing, comprehensive document and without letting anything out that contains info about all the above
+```
+
+> Used Gemini, ChatGPT, Grok & Deepseek.
 
 
