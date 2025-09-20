@@ -1,6 +1,6 @@
-﻿The Science and Application of Native Resolution Restoration in Digital Media: A Comprehensive Analysis of Upscaling Inversion
+﻿1_The Science and Application of Native Resolution Restoration in Digital Media_ A Comprehensive Analysis of Upscaling Inversion_By Gemini.md
 
-
+The Science and Application of Native Resolution Restoration in Digital Media: A Comprehensive Analysis of Upscaling Inversion
 
 
 1. Executive Summary

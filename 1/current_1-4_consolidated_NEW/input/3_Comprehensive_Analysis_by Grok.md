@@ -1,3 +1,9 @@
+3_Comprehensive Analysis of Native Resolutions and Descaling in Anime Video Encoding_By Grok.md
+
+
+# Comprehensive Analysis of Native Resolutions and Descaling in Anime Video Encoding: 
+
+
 ### Comprehensive Analysis of Native Resolutions and Descaling in Anime Video Encoding
 
 Based on a deep review of all provided documents (e.g., kageru.moe.md, kbz12.pdf, HTML snapshots of blogs and guides) and the linked resources (browsed via tools, including guides, Anibin examples, and GitHub tools), this analysis synthesizes the key concepts, methods, tools, examples, evolution of techniques, and practical considerations for handling native resolutions in upscaled anime sources. The information spans from early 2010s blog posts to modern (2020s) tools and guides, showing a progression from manual scripting to automated, fractional-aware detection.

@@ -1,3 +1,7 @@
+4_Anime Resolution Detection & Descaling Methodologies_by Deepseek.md
+
+# Anime Resolution Detection & Descaling Methodologies
+
 Based on a thorough analysis of the provided search results and additional linked resources, here is a comprehensive technical report on anime resolution detection methodologies, incorporating both historical context and modern innovations:
 
 ### 1. **Fundamentals of Anime Resolution Analysis**

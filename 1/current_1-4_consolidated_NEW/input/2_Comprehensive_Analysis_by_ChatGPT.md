@@ -1,3 +1,6 @@
+2_descaling_analysis_report_by_chatgpt.md
+
+# Descaling Analysis:
 
 Executive summary (TL;DR):
 - Descaling is a well-understood, mostly reversible operation for deterministic resizers (bilinear, bicubic, etc.). That theoretical basis is in the Kageru paper (kbz12) and the descale plugin's design.
